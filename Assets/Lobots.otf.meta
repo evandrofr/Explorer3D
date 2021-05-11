@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eb8046a0201d23c41ad9ba3eeb9d6221
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lobots
+  fontNames:
+  - Lobots
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9a73e82da20c9174a949f3e4c6c07a96, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
